@@ -5,14 +5,14 @@
 </h1>
 <p align="center">Projeto do módulo II na trilha de ReactJS do curso Ignite na Rocketseat 🚀</p>
 <p align="center">
- <a href="# 📑 Objetivo">Objetivo</a> • <a href="# 🛠 Tecnologias">Tecnologias</a> • <a href="# 📸 Screenshots">Screenshots</a> • <a href="https://github.com/vitorhoracio/dtmoney/blob/main/README.md#%EF%B8%8F-pr%C3%A9-requisitos">Pré-requisitos</a> • <a href="# 🎲 Rodando o projeto">Rodando o projeto</a>
+ <a href="https://github.com/vitorhoracio/dtmoney/blob/main/README.md#-objetivo">Objetivo</a> • <a href="https://github.com/vitorhoracio/dtmoney/blob/main/README.md#-tecnologias">Tecnologias</a> • <a href="https://github.com/vitorhoracio/dtmoney/blob/main/README.md#-screenshots">Screenshots</a> • <a href="https://github.com/vitorhoracio/dtmoney/blob/main/README.md#%EF%B8%8F-pr%C3%A9-requisitos">Pré-requisitos</a> • <a href="https://github.com/vitorhoracio/dtmoney/blob/main/README.md#-rodando-o-projeto">Rodando o projeto</a>
 </p>
 
-### 📑 Objetivo
+# 📑 Objetivo
 
 Construir o front-end de uma plataforma para lançamento de entradas e saídas financeira, utilziando modernas tecnologias para simular um back-end com o MIRAGEJS possibilitando criar registros e consumir uma API.
 
-### 🛠 Tecnologias
+# 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -25,7 +25,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Polished](https://polished.js.org/)
 - [Styled-Components](https://styled-components.com/)
 
-### 📸 Screenshots
+# 📸 Screenshots
 
 ## Inicio
 ![Home](https://i.imgur.com/FU3Cs1W.png)
@@ -34,13 +34,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## Transação registrada
 ![Transação registrada](https://i.imgur.com/3D21YBr.png "Transação registrada")
 
-### ⚠️ Pré-requisitos
+# ⚠️ Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [Yarn](https://yarnpkg.com/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-### 🎲 Rodando o projeto
+# 🎲 Rodando o projeto
 
 ```bash
 # Clone este repositório

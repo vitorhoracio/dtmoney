@@ -17,6 +17,7 @@ Construir o front-end de uma plataforma para lançamento de entradas e saídas f
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Node.js](https://nodejs.org/en/)
+- [Yarn](https://yarnpkg.com/)
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Axios](https://axios-http.com/ptbr/docs/intro)

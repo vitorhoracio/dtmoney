@@ -5,7 +5,7 @@
 </h1>
 <p align="center">Projeto do módulo II na trilha de ReactJS do curso Ignite na Rocketseat 🚀</p>
 <p align="center">
- <a href="# 📑 Objetivo">Objetivo</a> • <a href="# 🛠 Tecnologias">Tecnologias</a> • <a href="# 📸 Screenshots">Screenshots</a> • <a href="# ⚠️ Pré-requisitos">Pré-requisitos</a> • <a href="# 🎲 Rodando o projeto">Rodando o projeto</a>
+ <a href="# 📑 Objetivo">Objetivo</a> • <a href="# 🛠 Tecnologias">Tecnologias</a> • <a href="# 📸 Screenshots">Screenshots</a> • <a href="https://github.com/vitorhoracio/dtmoney/blob/main/README.md#%EF%B8%8F-pr%C3%A9-requisitos">Pré-requisitos</a> • <a href="# 🎲 Rodando o projeto">Rodando o projeto</a>
 </p>
 
 ### 📑 Objetivo
